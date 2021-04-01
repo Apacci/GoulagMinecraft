@@ -1,1 +1,3 @@
-Goulag.jar
+Goulag.jar https://github.com/Apacci/GoulagMinecraft/raw/main/Goulag.jar
+Goulag.json https://github.com/Apacci/GoulagMinecraft/raw/main/Goulag.json
+Goulag_Version.txt https://github.com/Apacci/GoulagMinecraft/raw/main/Goulag_Version.txt
